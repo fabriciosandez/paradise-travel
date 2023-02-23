@@ -6,6 +6,8 @@ The website is fully responsive for any resolution.
 
 Live site: https://paradisetravelagency.netlify.app/
 
+![image](https://user-images.githubusercontent.com/115194676/220800401-13f47d16-71e8-468c-8a1d-2f72bd324d73.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
